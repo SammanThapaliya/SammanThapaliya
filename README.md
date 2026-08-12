@@ -166,14 +166,4 @@ Time Series            █████████████░░░░░░
 
 </div>
 
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                 S A M M A N   T H A P A L I Y A             │
-│                                                             │
-│             DATA • SCIENCE • MACHINE • LEARNING             │
-│                                                             │
-│       ✦ HAMILTON    ✦ EPIC    ✦ HADESTOWN                  │
-│                                                             │
-│        dark stage · spotlight · gold typography             │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+
