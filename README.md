@@ -122,22 +122,19 @@ A data-driven epidemiological modeling project analyzing COVID-19 transmission d
 
 <div align="center">
 
-<img src="./assets/musical-banner.gif" width="100%" />
+<img src="./assets/musical-banner.png" width="100%" />
 
 <br><br>
 
 ### Musical Theatre
 
-**Hamilton · EPIC: The Musical · Hadestown · Greatest Showman **
+**Hamilton · EPIC: The Musical · Hadestown · The Greatest Showman**
 
 <br>
 
 <i>History. Mythology. Ambition. Fate.</i>
 
-<br><br>
-
 </div>
-
 ---
 
 ## `07` — Currently Learning
