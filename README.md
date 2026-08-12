@@ -36,28 +36,27 @@ Currently exploring:
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,latex" />
 </p>
 
 ### Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" />
 </p>
 
-![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square\&logo=scipy\&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 ### Visualization & Applications
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square\&logo=matplotlib\&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square\&logo=plotly\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square\&logo=streamlit\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
-
 ## `03` — What I'm Building
 
 <table>
