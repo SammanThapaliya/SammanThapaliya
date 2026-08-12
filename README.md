@@ -27,7 +27,7 @@ Currently exploring:
 * Predictive Modeling
 * Real-world Data Science applications
 
-> *"The world is wide enough for you to make your mark."*
+> *"DO NOT THROW AWAY YOUR SHOT!!!"*
 
 ---
 
