@@ -118,17 +118,23 @@ A data-driven epidemiological modeling project analyzing COVID-19 transmission d
 
 
 
-## `06` — The Soundtrack
+## `06` — I LOVE MUSICALS
 
 <div align="center">
 
-### 🎭 Musical Theatre
+<img src="./assets/musical-banner.gif" width="100%" />
 
-**Hamilton** · **EPIC: The Musical** · **Hadestown**
+<br><br>
+
+### Musical Theatre
+
+**Hamilton · EPIC: The Musical · Hadestown · Greatest Showman **
 
 <br>
 
-> *History. Mythology. Ambition. Fate.*
+<i>History. Mythology. Ambition. Fate.</i>
+
+<br><br>
 
 </div>
 
