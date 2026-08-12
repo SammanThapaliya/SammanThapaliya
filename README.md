@@ -122,8 +122,7 @@ A data-driven epidemiological modeling project analyzing COVID-19 transmission d
 
 <div align="center">
 
-<img src="./assets/musical-banner.png" width="100%" />
-
+<img src="./assests/musical-banner.gif" width="100%" />
 <br><br>
 
 ### Musical Theatre
