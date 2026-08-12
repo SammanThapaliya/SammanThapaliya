@@ -36,7 +36,7 @@ Currently exploring:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,latex" />
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,r,latex" />
 </p>
 
 ### Data Science
@@ -57,6 +57,7 @@ Currently exploring:
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
+
 ## `03` — What I'm Building
 
 <table>
